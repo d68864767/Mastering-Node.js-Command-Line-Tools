@@ -1,0 +1,23 @@
+{
+  "name": "mastering-nodejs-command-line-tools",
+  "version": "1.0.0",
+  "description": "A project to master Node.js command line tools using OpenAI API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/mastering-nodejs-command-line-tools.git"
+  },
+  "keywords": [
+    "nodejs",
+    "command-line-tools",
+    "openai-api"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
